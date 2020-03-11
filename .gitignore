@@ -1,0 +1,9 @@
+*.*
+*
+!.gitignore
+!Makefile                        
+!imgui.ini     
+!README.md
+!libs          
+!src       
+!main.cpp
